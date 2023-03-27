@@ -1,18 +1,11 @@
-## Getting Started
+# Imersão Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório conterá o código das aulas da Imersão Java da Alura.
 
-## Folder Structure
+Serão 5 aulas de programação, gratuitas, para você desenvolver do zero sua primeira aplicação em Java, progredir na carreira e ampliar ou começar o seu portfólio.
 
-The workspace contains two folders by default, where:
+Inscreva-se: https://www.alura.com.br/imersao-java 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Aula 1
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+O código da Aula 1 pode ser encontrado na branch [aula1](https://github.com/alura-cursos/imersao-java-2/tree/aula1) no diretório `alura-stickers`.
